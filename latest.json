@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "notes": "Manta Trace Release 1.0.2 - major version.",
+  "version": "1.0.3",
+  "notes": "Manta Trace Release 1.0.3 - major version test on latest branch.",
   "pub_date": "2026-02-23T17:00:00Z",
   "platforms": {
     "darwin-aarch64": {
