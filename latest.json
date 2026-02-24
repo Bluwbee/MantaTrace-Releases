@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": "Manta Trace Release 1.0.0 - major version.",
   "pub_date": "2026-02-23T17:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVFlqSHBwZFpUR1crcGVoVzQ4L2k2djAxUGlORXU0dUxqV0JUNmRTYjZxWkNiTE5vU21hQ1oxS2lBREg3WlNLc25KQkJyVXFRRTJ2RHVQV2dFUXNvd1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODQzMTU1CWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlci5hcHAudGFyLmd6Ck9HVTN2ZTFFUjg3ZHdnMTlqbGxJSjczWTN0MmJoMjRJSjBTL2RUQkpURTJFK2JyK2RhRTZZaHBDa01GNXJUZEZqZjdQTU51U011ckFtMDcyRDJqdEFBPT0K",
-      "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v1.0.0/MantaTrace.Packet.Sniffer.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVFdhL3ZnakFpMmtxT3dEZnZmNUpLTHJzWC9nckI3OTdHVmZLdG9wL0FxR3VOcmFvdjJyRHpJVm9PRHVrRnoyVXF0Si93UitDNkNDN0t3OElZcW1PVlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODYyNTQwCWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlci5hcHAudGFyLmd6ClZaRTgyT1lqZXdjVlNiZCs5RHJHS2YweHdINkt2aVV4cDlaN2FqLzhNZFR5THFEVUswS1NKRjU4UTV5ZloxQkV3Mkd4M3E4M0xwU2pwaFAyZXVZSkRnPT0K",
+      "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v1.0.1/MantaTrace.Packet.Sniffer.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVFErY2ZLb3J6b1FCMUNUZXVkbzhlODQxamxOWHNqNUxUYzFFRWora21rSXQzTG5nQUpDTU8velNRMU1wVWdBamtncVcxb0x0ZUZCRUd6T3c1dW01Tmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODc5NTYwCWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlcl8xLjAuMF94NjQtc2V0dXAuZXhlCkJxelpQVlA3eGZESDZJbUlvZXNrTnJBMXpxWjhraEZROWZ0anVKbWlSbENhZERPQWNMY2NEemt5N3RJYXZPN1g2OWVhSTIyWCs1OFgxM2IzazgwMEF3PT0K",
