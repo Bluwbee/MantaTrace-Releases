@@ -5,7 +5,7 @@
     "platforms": {
         "darwin-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVGJPZ0lldGRIaHpYak1TRkZkZ2ZuSjJrc3JPSkFwblFxNGFGYld1Z0lnU3FaNGZTK21zMXVRRVlzWDFXWEszTWpDOWNwZlhZd1ZSdkFsTjlmOE9ZbUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTY2MjE2CWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlci5hcHAudGFyLmd6CnFqV2ZKbGtyUkJnOUFEQmFZdnFJbzltTTJ6M1U4RTJaeHhZWEJaWlhYVUx0WFM5d3g1a1NYUkdKTStUcCtDbzNLRmxmK0lUdEI1eDBpV1prWGs5dEJBPT0K",
-            "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v1.0.2/MantaTrace.Packet.Sniffer.app.tar"
+            "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v1.0.2/MantaTrace.Packet.Sniffer.app.tar.gz"
         },
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVFV6U2h3RHFscjltR3Q0YllqRVRDbGZRN2hFNFdRTTh5dS81ZVFWMkhRS2NwMktza0drZVRObVV6UkkvRlk0TmNZWDA0VVBpdDVpYmFjR1dqWjJiVlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTY2NjE1CWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlcl8xLjAuMl94NjQtc2V0dXAuZXhlCktlc3ltZkJHTU05M2NkK0JKVFBidXZWMStUSUI2MWd2SkRab0tyN3MxZ2FKOGh2c3FrQVQ0SDN6VTMwbExobVc0cFNiUlo5ZDhrU0FmUkVMS1Q4Z0JnPT0K",
