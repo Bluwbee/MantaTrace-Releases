@@ -1,15 +1,19 @@
 {
-  "version": "2.3.0",
-  "notes": "Release 2.3.0",
-  "pub_date": "2026-11-18T12:21:00Z",
-  "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVFVvWElkeGRXOFRuUWRRemlzWWI5enk3NnZBbll0TTZ4RGdENTNjakYzeUF0TGVrWTcwaWRGRFdOVm5VU25YZGlHcklnVkxZUm82OFovazZpQW44Y3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk1MTk2CWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlci5hcHAudGFyLmd6CjIyd0dvM3AwMEcraXRaODJpamkycE0zTHcyZVNibGVjdEhTbHNkbjV6S2N2Qzl1YTlzVWtYNElwKzNneGJmdnB2U2E4RkdjSDJIZ25RWk1QcjVKakR3PT0K",
-      "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v2.3.0/MantaTrace.Packet.Sniffer.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVFVWSVJZbW9aRVFVem9nTjU1ZkN0SXhsMFdHdjNlRjJjUDNZcVRQVWlub3k0eEsxclora1h0S1R6REJ5K2FCRXRjZk0zZWhjOTNqNkJ2S1RUOUhhOXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk1NDMzCWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlcl8yLjMuMF9hbWQ2NC5BcHBJbWFnZQpPSEI3RitQSTZ1SzNJT1Y1NUQ5SFJvakhLU3pEUGNia3dYVnk4cGNmWWtVUU5GTXRtTDViSFBEUU5EUjNjZXJBS1RwQmI3Umc3aFk5UVI2Qkx0U0xEZz09Cg==",
-      "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v2.3.0/MantaTrace.Packet.Sniffer_2.3.0_amd64.AppImage"
+    "version": "2.3.1",
+    "notes": "Release 2.3.1",
+    "pub_date": "2026-11-27T15:59:38Z",
+    "platforms": {
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVFdkR0cxMW1GbGV5OUpqdXJJU2pLODBIWWF6cEoycGhSM3dFMkJpc2YzSFZLRWJUMG0vMEV3T0xaVU83SVp4blZvdWtkbkJCZUliMGUvc0ZpVlVKTGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg1Mjc5CWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlci5hcHAudGFyLmd6Ck1LZHJFU29RYmtMUGdYSEljK0dSUFRSVDlzcEd2c3RjUktvZG14cWw0bXU4NjBlNlFxelRQY01vWUpLM29mZEN0NkFXK3BnejFJR2U5VURjVExpcEFBPT0K",
+            "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v2.3.1/MantaTrace.Packet.Sniffer.app.tar.gz"
+        },
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVFZLSE9MU0YyUHNVblpXMmVKVzMvT0pKbmJKMjlOWlRsQ1lRaVZHYW54MTAxSTBUMWl2RXpFWWVQcHNxWHdKR3dhWXRIcWxkZ0dtZndQbmJieTkrTWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg2Njc0CWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlcl8yLjMuMV94NjQtc2V0dXAuZXhlClQySkVseFJiUTFsK2VLdExjdldtV21tL2RibjhROHcxa0RvV0UyQU5OeXhlQVlud2IrV1N6cUc4WDExSXpRNXRidzlCVDJyazdseWR5ODRDNkoyOERnPT0K",
+            "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v2.3.1/MantaTrace.Packet.Sniffer_2.3.1_x64-setup.exe"
+        },
+        "linux-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW5KbHA5VWFvVGRlRVRqeGcvbHl3RDI5aTBFTnJjaGhwY2l0KzZJRmxham5MdEh2Qm9qQ1F1eE0vcytDVTZSRWxNZ2pWQUN0VDA3Sm1BRGpEbHRxdXpzbzBrcjNiUVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg2MTU1CWZpbGU6TWFudGFUcmFjZSBQYWNrZXQgU25pZmZlcl8yLjMuMV9hbWQ2NC5BcHBJbWFnZQo2UzlkS3pqc3VTVmROeUFXY3ZpOGtSTEtKL3dLQTgxSTZZdDUxWDM3T1I4cVRDNEFUYXFMZVlvNnlwaDRNOEZrMFFweDFBTzJqRzN0TlRBemVXeDNDdz09Cg==",
+            "url": "https://github.com/Bluwbee/MantaTrace-Releases/releases/download/v2.3.1/MantaTrace.Packet.Sniffer_2.3.1_amd64.AppImage"
+        }
     }
-  }
 }
